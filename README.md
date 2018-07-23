@@ -11,3 +11,4 @@ Create a PR with your meetup data
 Meetup           | Organizer                                 | CFP Link         | Remote speakers   | Language
 ------------------|-----------------------------------------|-------------------|-------------------|-------------------
 [NGBAires](https://www.meetup.com/NG-BAIRES) | [@jorgeucano](https://twitter.com/jorgeucano) jorgeucano@gmail.com | [CFP](https://github.com/ngbaires/ng-baires/issues/new) | Yes | Spanish / English
+[AngularMoscow](https://www.meetup.com/AngularMoscow) | [@Ai_boy](https://twitter.com/Ai_boy) ookhrymenko@gmail.com | [CFP](https://github.com/AngularMoscow/Talks) | No | Russian / English
