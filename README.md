@@ -8,7 +8,7 @@ Create a PR with your meetup data
 
 ### CFP meetups Links
 
-​   | Meetup           | Organizer                                 | CFP Link         | Remote speakers   | Language
-----|------------------|-----------------------------------------|-------------------|-------------------|-------------------
+Meetup           | Organizer                                 | CFP Link         | Remote speakers   | Language
+------------------|-----------------------------------------|-------------------|-------------------|-------------------
 
-[![@ngbaires](https://avatars3.githubusercontent.com/u/20710744?s=200&v=4)](https://www.meetup.com/NG-BAIRES) | NGBAires | [@jorgeucano](https://twitter.com/jorgeucano) jorgeucano@gmail.com | [![CFP](https://github.com/ngbaires/ng-baires/issues/new) | Yes | Spanish / English
+[NGBAires](https://www.meetup.com/NG-BAIRES) | [@jorgeucano](https://twitter.com/jorgeucano) jorgeucano@gmail.com | [![CFP](https://github.com/ngbaires/ng-baires/issues/new) | Yes | Spanish / English
