@@ -17,3 +17,5 @@ Meetup           | Organizer  | Country | CFP Link         | Remote speakers   |
 [Angular Wrocław](https://www.meetup.com/AngularJS-Wroc%C5%82aw/) | [@ZasadaKamil‏](https://twitter.com/ZasadaKamil) [@bobrov1989](https://twitter.com/bobrov1989) | 🇵🇱 | [CFP](https://twitter.com/AngularWroclaw) | Yes | Polish / English
 [Angular Dragons (Krakow, PL)](https://www.meetup.com/Angular-Dragons/) | [@RafalRumanek](https://twitter.com/RafalRumanek) | 🇵🇱 | [CFP](https://twitter.com/AngularDragons) | Yes | English / Polish
 [Angular Frankfurt](https://www.meetup.com/Angular-Frankfurt/) | [@flo_re2003](https://twitter.com/flo_re2003) | 🇩🇪 | [CFP](https://twitter.com/ngFrankfurt) | Yes | English / German
+[Angular Heidelberg](https://angular-heidelberg.de/) | [@JohannesHoppe](https://twitter.com/JohannesHoppe) | 🇩🇪 | [CFP](https://twitter.com/ngHeidelberg) | Yes | English
+
