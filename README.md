@@ -19,4 +19,4 @@ Meetup           | Organizer  | Country | CFP Link         | Remote speakers   |
 [Angular Frankfurt](https://www.meetup.com/Angular-Frankfurt/) | [@flo_re2003](https://twitter.com/flo_re2003) | 🇩🇪 | [CFP](https://twitter.com/ngFrankfurt) | Yes | English / German
 [Angular Heidelberg](https://angular-heidelberg.de/) | [@JohannesHoppe](https://twitter.com/JohannesHoppe) | 🇩🇪 | [CFP](https://twitter.com/ngHeidelberg) | Yes | English
 [Angular Bolivia](https://www.meetup.com/Angular-Bolivia/) | [@luixaviles](https://twitter.com/luixaviles) | 🇧🇴 | [CFP](https://github.com/angular-bolivia/meetup/issues/new) | Yes | Spanish / English
-
+[Angular London](https://www.meetup.com/Angular-London/) | [@moonty](https://twitter.com/moonty) | 🇬🇧 | [CFP](https://goo.gl/qHICoi) | No | English
